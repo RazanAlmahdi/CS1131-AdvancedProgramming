@@ -1,0 +1,8 @@
+The first device known to carry out calculations was the abacus.
+The abacus was invented in Asia but was used in ancient Babylon,
+China, and throughout Europe until the late middle ages. The abacus uses a system of sliding beads in a rack for addition and subtraction. In 1642, the French philosopher and mathematician Blaise
+Pascal invented the calculating device called the Pascaline. It
+had eight movable dials on wheels and could calculate sums up to
+eight figures long. Both the abacus and Pascaline could perform
+only addition and subtraction operations. Later in the 17th century, Gottfried von Leibniz invented a device that was able to add,
+subtract, multiply, and divide.
