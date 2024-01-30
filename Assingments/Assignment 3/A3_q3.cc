@@ -7,6 +7,7 @@ struct addressBook{
   string address;
   string phone;
   addressBook *link;
+///////
 };
 //functions prototype
 void addEntry();
